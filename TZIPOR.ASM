@@ -1,5 +1,4 @@
 ; HATZIPOR BATZINOR
-; created by Matan Rafalovitz
 
 ; instructions:
 ; use number keys to select the number of players (1-4) and space to start
